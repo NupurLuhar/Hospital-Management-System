@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Care360 : Hospital-Management-System
 
 The Hospital Management System is a desktop application developed using VB.NET that allows hospitals to manage patient records, doctor appointments, and billing efficiently. It includes modules for Patient Management, Appointment Scheduling, and Billing System. The system provides a simple interface for hospital staff to add, edit, and view patient information, schedule appointments, and generate invoices.
 
